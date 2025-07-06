@@ -1,0 +1,17 @@
+name: credit-risk-app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - joblib
+  - streamlit
+  - pip:
+      - gradio
+      - ucimlrepo
+      - gdown
