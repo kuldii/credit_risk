@@ -119,7 +119,7 @@ python app.py
 
 ## 🌐 Demo & Credits
 - **Author**: Sandikha Rahardi (Kuldii Project)
-- **Website**: https://hello.kuldiiproject.com/credit_risk
+- **Website**: https://kuldiiproject.com
 - **Dataset**: [UCI Statlog German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 - **UI**: [Gradio](https://gradio.app/)
 - **ML**: [Scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.readthedocs.io/)
